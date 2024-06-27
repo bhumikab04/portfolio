@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(228, 198, 160);
+    background-color:#a9f3eb;
     overflow-x: hidden;
   }
   * {
@@ -23,21 +23,21 @@ body {
     padding: 10px 20px;
     font-family: inherit;
     font-size: 18px;
-    color: rgba(70, 35, 4, 0.812); /* Button text color */
+    color:#0e3849; /* Button text color */
     text-decoration: none;
-    border: 2px solid rgba(57, 27, 1, 0.322); /* Border color */
+    border: 2px solid #4d7f92; /* Border color */
     border-radius: 5px; /* Rounded corners */
     background-color: transparent; /* Transparent background */
     transition: background-color 0.3s, color 0.3s; /* Smooth transition */
   }
   
   .navdiv ul li a:hover {
-    background-color: rgba(70, 35, 4, 0.812); /* Background color on hover */
+    background-color: rgba(29, 72, 119, 0.812); /* Background color on hover */
     color: white; /* Text color on hover */
   }
   
   .navbar {
-    background: rgba(93, 43, 5, 0.347);
+    background: rgba(48, 177, 191, 0.35);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding-right: 15px;
     padding-left: 15px;
@@ -58,7 +58,7 @@ body {
     width: 100%;
     min-height: 35vh;
     position: relative;
-    background: linear-gradient(90deg, rgba(155, 122, 63, 0.859), rgb(76, 46, 2));
+    background: linear-gradient(90deg, #418a8a, #115b78);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -69,7 +69,7 @@ body {
     font-family: "Judson", serif;
   }
   header h1 {
-    color: rgb(84, 55, 41);
+    color: rgb(18, 69, 74);
     text-align: center;
     margin-top: 30px;
   margin-bottom: 20px;
@@ -86,8 +86,8 @@ body {
     background: linear-gradient(
         -45deg,
         transparent 33.33%,
-        black 33.33%,
-        rgb(45, 18, 4) 66.66%,
+        rgb(110, 200, 238) 33.33%,
+        rgb(5, 49, 84) 66.66%,
         transparent 66.66%
       ),
       linear-gradient(
@@ -118,8 +118,8 @@ body {
       linear-gradient(
         45deg,
         transparent 33.33%,
-        black 33.33%,
-        rgb(52, 24, 4) 66.66%,
+        rgb(110, 200, 238) 33.33%,
+        rgb(5, 49, 84) 66.66%,
         transparent 66.66%
       );
     background-size: 30px 60px;
@@ -148,7 +148,7 @@ body {
   }
   .heading {
     margin-top: 50px;
-    color: rgb(47, 3, 3);
+    color: rgb(5, 58, 64);
     font-weight: 300;
     text-align: center;
     font-size: 30px;
@@ -156,7 +156,7 @@ body {
   }
   .content {
     margin: 25px 60px;
-    color: rgba(70, 35, 4, 0.812);
+    color: rgba(5, 115, 122, 0.997);
     font-size: 20px;
   }
   .contact-info {
@@ -171,14 +171,14 @@ body {
     color: white;
   }
   .link2 {
-    color: rgba(70, 35, 4, 0.812);
+    color: rgba(5, 115, 122, 0.997);;
   }
   ul.tech-stack li,
   ul.links li {
     margin-bottom: 10px;
   }
   .link-color {
-    color: rgba(70, 35, 4, 0.812);
+    color: rgba(5, 115, 122, 0.997);;
   }
   #Figma {
     display: flex;
