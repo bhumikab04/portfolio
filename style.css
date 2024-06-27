@@ -167,7 +167,7 @@ body {
   }
   .content {
     margin: 25px 60px;
-    color: rgba(5, 115, 122, 0.997);
+    color: rgba(2, 60, 64, 0.997);
     font-size: 20px;
   }
   .contact-info {
@@ -182,7 +182,7 @@ body {
     color: white;
   }
   .link2 {
-    color: rgba(5, 115, 122, 0.997);;
+    color: rgba(2, 60, 64, 0.997);
   }
   ul.tech-stack li,
   ul.links li {
