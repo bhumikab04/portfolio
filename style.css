@@ -5,10 +5,10 @@ body {
   .container {
     width: 100%;
     height: 100%;
-    background: radial-gradient(circle at 10% 10%, #3e73f048 5%, transparent 5%),
-      radial-gradient(circle at 90% 10%, #3e73f041 5%, transparent 2%),
-      radial-gradient(circle at 90% 90%, #3e73f04d 5%, transparent 2%),
-      radial-gradient(circle at 10% 90%, #3e73f054 5%, transparent 2%);
+    background: radial-gradient(circle at 10% 10%, #3e73f037 5%, transparent 5%),
+      radial-gradient(circle at 90% 10%, #3e73f036 5%, transparent 2%),
+      radial-gradient(circle at 90% 90%, #3e73f036 5%, transparent 2%),
+      radial-gradient(circle at 10% 90%, #3e73f039 5%, transparent 2%);
     background-size: 20px 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     z-index: -1;
