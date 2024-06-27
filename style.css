@@ -211,3 +211,27 @@ body {
       margin: 20px;
     }
   }
+  
+  @media only screen and (max-width: 777px) {
+    .navdiv ul li a {
+      padding: 6px 8px;
+      font-size: 15px;
+    }
+  }
+  
+  @media only screen and (max-width: 595px) {
+    .navdiv ul {
+      flex-direction: column;
+    }
+    .navdiv ul {
+      flex-direction: column;
+      align-items: center;
+      row-gap: 10px;
+    }
+    .navdiv ul li a {
+      padding: 6px 8px;
+      font-size: 15px;
+      min-width: 100px;
+      text-align: center;
+    }
+  }
